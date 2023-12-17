@@ -1,0 +1,214 @@
+.gradient-background0 {
+    background: linear-gradient(300deg, #fef9ff, #faf3f0, #ffffff);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+  
+  @keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+
+.gradient-background {
+    background: linear-gradient(300deg, #2c03e2, #44296e, #01ad6e);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+  
+  @keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+  }
+  .gradient-backgroundmus
+
+  {
+    background: linear-gradient(300deg, #1202ee, #a579f3, #269b0f);
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+  
+  @keyframes gradient-animation {
+    0% {
+      background-position: 0% 50%;
+    }
+    50% {
+      background-position: 100% 50%;
+    }
+    100% {
+      background-position: 0% 50%;
+    }
+
+}
+  
+  .gradient-background1 
+
+    {
+      background: linear-gradient(300deg, #02bfee, #3c2364, #01915c);
+      background-size: 180% 180%;
+      animation: gradient-animation 18s ease infinite;
+    }
+    
+    @keyframes gradient-animation {
+      0% {
+        background-position: 0% 50%;
+      }
+      50% {
+        background-position: 100% 50%;
+      }
+      100% {
+        background-position: 0% 50%;
+      }
+
+  }
+  @keyframes pendulum {
+    0% {
+      transform: rotate(10deg);
+    }
+    50% {
+      transform: rotate(-10deg);
+    }
+    100% {
+      transform: rotate(10deg);
+    }
+  }
+  
+  .pendulum {
+    animation: pendulum 0s ease-in-out infinite;
+  }
+  h1, p {
+  color: white;
+}
+.gradient-background3 {
+  background: linear-gradient(300deg, #ff02f2, #fffefe, #000000fa);
+  background-size: 180% 180%;
+  animation: gradient-animation 3s ease infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+.gradient-background4 {
+  background: linear-gradient(300deg, #5a5a5a, #fffefe, #2abe05fa);
+  background-size: 180% 180%;
+  animation: gradient-animation 3s ease infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+.gradient-background5 {
+  background: linear-gradient(300deg, #5a5a5a, #fffefe, #301500fa);
+  background-size: 180% 180%;
+  animation: gradient-animation 3s ease infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+.gradient-backgroundo {
+  background: linear-gradient(300deg, #ff8a46, #fffefe, #ffd29d);
+  background-size: 180% 180%;
+  animation: gradient-animation 3s ease infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+.gradient-backgroundy {
+  background: linear-gradient(300deg, #a06000, #fffefe, #ff8f0f);
+  background-size: 180% 180%;
+  animation: gradient-animation 3s ease infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+.gradient-background12 {
+  background: linear-gradient(300deg, #130b00, #fffefe, #ff8f0f);
+  background-size: 180% 180%;
+  animation: gradient-animation 3s ease infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+.gradient-backgroundn {
+  background: linear-gradient(300deg, #02f8e4, #fffefe, #b2fff5);
+  background-size: 180% 180%;
+  animation: gradient-animation 3s ease infinite;
+}
+
+@keyframes gradient-animation {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
